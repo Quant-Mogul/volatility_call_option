@@ -1,4 +1,4 @@
-Contributing to the Volatility Call Option Project
+# Contributing to the Volatility Call Option Project
 
 
 Welcome to the Volatility Call Option project! This guide will help you get started with the setup and contribute to the development.
