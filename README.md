@@ -13,7 +13,7 @@ Steps to Set Up the Project Locally
 
 1. Clone the Repository
 To get started, clone the repository to your local machine:
-`git clone https://github.com/apostleoffinance/volatility_call_option.git`
+`git clone  https://github.com/apostleoffinance/volatility_call_option.git`
 
 
 2. Set Up a Virtual Environment
