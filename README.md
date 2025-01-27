@@ -3,6 +3,8 @@
 
 Welcome to the Volatility Call Option project! This guide will help you get started with the setup and contribute to the development.
 
+Research Documentation can be found here https://drive.google.com/file/d/1AohXMJL-13_yDAsDESQeGFVDI0x2W2hy/view?usp=sharing
+
 Prerequisites
 Before contributing, make sure you have the following:
 
